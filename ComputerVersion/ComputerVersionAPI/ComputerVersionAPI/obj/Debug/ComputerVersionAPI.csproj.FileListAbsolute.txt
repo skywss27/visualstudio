@@ -1,0 +1,5 @@
+D:\users\administrator\documents\visual studio 2013\Projects\ComputerVersionAPI\ComputerVersionAPI\bin\Debug\ComputerVersionAPI.exe.config
+D:\users\administrator\documents\visual studio 2013\Projects\ComputerVersionAPI\ComputerVersionAPI\bin\Debug\ComputerVersionAPI.exe
+D:\users\administrator\documents\visual studio 2013\Projects\ComputerVersionAPI\ComputerVersionAPI\bin\Debug\ComputerVersionAPI.pdb
+D:\users\administrator\documents\visual studio 2013\Projects\ComputerVersionAPI\ComputerVersionAPI\obj\Debug\ComputerVersionAPI.exe
+D:\users\administrator\documents\visual studio 2013\Projects\ComputerVersionAPI\ComputerVersionAPI\obj\Debug\ComputerVersionAPI.pdb

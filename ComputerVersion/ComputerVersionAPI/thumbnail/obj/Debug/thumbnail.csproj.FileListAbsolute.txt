@@ -1,0 +1,5 @@
+D:\users\administrator\documents\visual studio 2013\Projects\ComputerVersionAPI\thumbnail\bin\Debug\thumbnail.exe.config
+D:\users\administrator\documents\visual studio 2013\Projects\ComputerVersionAPI\thumbnail\bin\Debug\thumbnail.exe
+D:\users\administrator\documents\visual studio 2013\Projects\ComputerVersionAPI\thumbnail\bin\Debug\thumbnail.pdb
+D:\users\administrator\documents\visual studio 2013\Projects\ComputerVersionAPI\thumbnail\obj\Debug\thumbnail.exe
+D:\users\administrator\documents\visual studio 2013\Projects\ComputerVersionAPI\thumbnail\obj\Debug\thumbnail.pdb

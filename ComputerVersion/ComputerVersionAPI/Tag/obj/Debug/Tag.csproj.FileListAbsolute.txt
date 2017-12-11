@@ -1,0 +1,6 @@
+D:\users\administrator\documents\visual studio 2013\Projects\ComputerVersionAPI\Tag\bin\Debug\Tag.exe.config
+D:\users\administrator\documents\visual studio 2013\Projects\ComputerVersionAPI\Tag\bin\Debug\Tag.exe
+D:\users\administrator\documents\visual studio 2013\Projects\ComputerVersionAPI\Tag\bin\Debug\Tag.pdb
+D:\users\administrator\documents\visual studio 2013\Projects\ComputerVersionAPI\Tag\obj\Debug\Tag.csprojResolveAssemblyReference.cache
+D:\users\administrator\documents\visual studio 2013\Projects\ComputerVersionAPI\Tag\obj\Debug\Tag.exe
+D:\users\administrator\documents\visual studio 2013\Projects\ComputerVersionAPI\Tag\obj\Debug\Tag.pdb
