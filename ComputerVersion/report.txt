@@ -1,0 +1,43 @@
+Api 介绍
+1.分析图片（AnalyzeImage）
+	通过此api的调用，可以得到这个照片的描述和特征
+	sample code :
+	 client.DefaultRequestHeaders.Add("Ocp-Apim-Subscription-Key", subscriptionKey);
+
+     // Request parameters. A third optional parameter is "details".
+      string requestParameters = "visualFeatures=Categories,Description,Color&language=en";
+
+    // Assemble the URI for the REST API Call.
+    string uri = uriBase + "?" + requestParameters;
+	
+	
+2. 识别名人和地标api(Domain-Specific Model)	
+	可以识别，商业、政治、体育和娱乐界名人，以及自然和人工地标
+	Sample code：
+	 client.DefaultRequestHeaders.Add("Ocp-Apim-Subscription-Key", subscriptionKey);
+
+            // Request parameters. Change "landmarks" to "celebrities" here and in uriBase to use the Celebrities model.
+            string requestParameters = "model=landmarks";
+
+            // Assemble the URI for the REST API Call.
+            string uri = uriBase + "?" + requestParameters;
+	
+3. 生个缩略图(Intelligently generate a thumbnail)
+	使用缩略图生成来修改图像，从而最好地满足你的大小、形状和风格需要
+	Sample code:
+		 client.DefaultRequestHeaders.Add("Ocp-Apim-Subscription-Key", subscriptionKey);
+
+            // Request parameters.
+            string requestParameters = "width=200&height=150&smartCropping=true";
+
+            // Assemble the URI for the REST API Call.
+            string uri = uriBase + "?" + requestParameters;
+	
+	
+	
+	
+	
+	
+	
+	
+	

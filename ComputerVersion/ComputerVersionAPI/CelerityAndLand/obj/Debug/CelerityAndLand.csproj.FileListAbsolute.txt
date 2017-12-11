@@ -1,0 +1,6 @@
+D:\users\administrator\documents\visual studio 2013\Projects\ComputerVersionAPI\CelerityAndLand\bin\Debug\CelerityAndLand.exe.config
+D:\users\administrator\documents\visual studio 2013\Projects\ComputerVersionAPI\CelerityAndLand\bin\Debug\CelerityAndLand.exe
+D:\users\administrator\documents\visual studio 2013\Projects\ComputerVersionAPI\CelerityAndLand\bin\Debug\CelerityAndLand.pdb
+D:\users\administrator\documents\visual studio 2013\Projects\ComputerVersionAPI\CelerityAndLand\obj\Debug\CelerityAndLand.csprojResolveAssemblyReference.cache
+D:\users\administrator\documents\visual studio 2013\Projects\ComputerVersionAPI\CelerityAndLand\obj\Debug\CelerityAndLand.exe
+D:\users\administrator\documents\visual studio 2013\Projects\ComputerVersionAPI\CelerityAndLand\obj\Debug\CelerityAndLand.pdb
